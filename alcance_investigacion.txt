@@ -1,0 +1,70 @@
+******************************
+ELECCIÓN: Alcance Descriptivo
+******************************
+
+• Cualitativo: Explicar cómo la implantación del Modelo Intelect mejorará la gestión del conocimiento relevante
+para la inducción y facilitación de información a colaboradores en Ripley Perú.
+
+• H: Sin hipótesis
+
+
+
+
+
+
+
+TEORIA
+------
+
+********************
+Alcance exploratorio 
+********************
+
+Investigaciones que tienen el propósito de examinar un fenómeno o problema de investigación
+nuevo o poco estudiado, sobre el cual se tienen muchas dudas o no se ha abordado antes Es decir, cuando la revisión
+de la literatura reveló que tan solo hay líneas de investigación sugeridas y no investigadas e ideas vagamente
+relacionadas con el problema de estudio, o bien, si se desea indagar sobre temas y áreas desde nuevas perspectivas
+• Cualitativo: Explorar la autopercepción de docentes universitarios sobre su padecimiento de estrés
+• H: Sin hipótesis
+
+• Cuantitativo: Identificar la existencia de niveles medibles de estrés laboral en la población de docentes
+universitarios varones
+• H: Sin hipótesis , su formulación resultaría
+
+********************
+Alcance descriptivo
+********************
+
+Tiene como finalidad identificar propiedades y características de conceptos, fenómenos, variables
+o hechos en un contexto determinado. Sólo se formula hipótesis cuando se pronostica un hecho o dato cuantitativo
+para la variable u objeto estudiado.
+
+• Cualitativo: Identificar la autopercepción de docentes universitarios varones sobre factores laborales estresantes
+• H: Sin hipótesis
+
+• Cuantitativo: Determinar el nivel de estrés laboral en docentes universitarios varones
+• H: El nivel de estrés laboral en docentes varones será superior al 50% medido antes del inicio de la cuarentena.
+
+*********************
+Alcance correlacional 
+*********************
+
+Este tipo de estudios tiene como finalidad determinar el grado de asociación que existe entre
+dos o más conceptos, categorías o variables en un contexto en particular. Se formula hipótesis correlacionales (se
+pronostica un grado de correlación de fenómenos o variables) pero no se establece causalidad.
+
+• Cuantitativo: Determinar la relación entre niveles de estrés laboral en el nivel de desempeño de los docentes
+universitarios
+• H: A mayor nivel de estrés laboral, menor nivel de desempeño de los docentes universitarios
+
+*******************
+Alcance explicativo 
+*******************
+
+Los estudios explicativos están dirigidos a responder por las causas de los eventos y fenómenos
+de cualquier índole (naturales, sociales, psicológicos, de salud, etc.). Como su nombre lo indica, su interés se centra
+en explicar por qué ocurre un fenómeno y en qué condiciones se manifiesta, o por qué se relacionan dos o más
+variables. Se formula hipótesis causales (se pronostica una relación de causalidad entre dos variables)
+
+• Cuantitativo: Determinar el efecto del estrés laboral en el nivel de desempeño de los docentes universitarios
+• H: Padecer estrés laboral es causa de la disminución del nivel de desempeño de los docentes universitarios

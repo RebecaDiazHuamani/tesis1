@@ -1,0 +1,112 @@
+*****************************
+ELECCIÓN: Enfoque Cualitativo
+*****************************
+
+1. ¿Cuál es el objeto?
+
+Modelo Intelect
+
+2. ¿Qué es el Modelo Intelect?
+
+
+
+3. ¿Cuál es la población de estudio?
+
+Los colaboradores de Ripley Perú
+
+4. ¿Qué se quiere hacer con el objeto?
+
+Implantar el Modelo Intelect para en Ripley Perú, para ello se interactuarán con los colaboradores de Ripley Perú, para luego
+analizar, comprender e interpretar cómo se gestiona el conocimiento relevante para la inducción y facilitación de información.
+No se busca cuantificar los resultados.
+
+5. ¿Cómo se obtendrá la información?
+
+Observación, revisión documental, entrevistas, encuestas, etc.
+
+6. ¿Formula hipóstesis?
+
+No
+
+Debido a que esta investigación busca comprender e interpretar una realidad de los colaboradores en Ripley Perú es de enfoque cualitativo.
+
+
+
+
+
+
+
+
+*******
+TEORIA
+*******
+
+Naturaleza de los datos
+-----------------------
+
+Cuantitativo o cualitativa
+
+Requisitos para el Enfoque de Investigación
+--------------------------------------------
+
+- Pregunta de investigación
+
+	¿Cómo la implantación del Modelo Intelect mejora la gestión del conocimiento relevante 
+	para la inducción y facilitación de información a colaboradores en Ripley Perú?
+
+- Objetivo general y objetivos específicos
+
+	Objetivo general
+	
+	Explicar cómo la implantación del Modelo Intelect mejorará la gestión del conocimiento relevante
+	para la inducción y facilitación de información a colaboradores en Ripley Perú.
+
+- Hipótesis
+
+********************
+ENFOQUE CUANTITATIVO
+********************
+
+Definición: Pretende medir la realidad que se investiga.
+
+- Reduce la realidad observable a elementos cuantificables (variables) y 
+  analiza estas variables o sus interacciones, ya sea en condiciones
+  controladas (experimental) o en su ambiente natural (no experimental).
+- Utiliza técnicas de recolección de datos estandarizados.
+- Usualmente, plantea una hipótesis al inicio de la investigación y busca
+  probarla
+- Utiliza la estadística.
+- Los resultados pueden generalizarse. Tiene carácter predictivo (bajo las
+  mismas condiciones, los resultados deberían repetirse).
+
+********************
+ENFOQUE CUALITATIVO
+********************
+
+Definición: Enfocado en la comprensión de los significados. Pretende comprender la realidad que se investiga.
+
+- Recoger acciones y percepciones de los participantes. No se cuantifica.
+- Utilizar técnicas de recolección de datos no estandarizados (usar preguntas abiertas)
+- Construir explicaciones amplias a partir de particularidades
+
+*****************************
+De naturaleza más cualitativa
+*****************************
+
+- Enfocado en los hechos
+- Interesado por la causalidad y el enunciado de leyes o principios fundamentales
+- Reduce los fenómenos a sus elementos simples y medibles
+- Formula hipótesis y las comprueba
+- Operacionaliza conceptos, de manera que puedan ser medidos (Ej. Hacer medible la inteligencia)
+- Toma muestras amplias, de carácter probabilístico (representativas de la totalidad)
+
+*****************************
+De naturaleza más cualitativa
+*****************************
+
+- Enfocado en los significados
+- Trata de comprender los fenómenos que suceden
+- Es holístico: pretende abarcar la totalidad de cada situación o fenómeno observado
+- No formula hipótesis : desarrolla ideas (teoría) por proceso de inducción a partir de los datos
+- Usa diferentes métodos para establecer diferentes perspectivas sobre un mismo fenómeno
+- Analiza en profundidad muestras pequeñas y significativas (no probabilísticas) que se selecciona durante la investigación
